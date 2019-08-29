@@ -4,7 +4,7 @@
   "description": "this is a test of glitch",
   "main": "hello-server.js",
   "scripts": {
-    "start": "node hello-server.js"
+    "start": "node hello-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
