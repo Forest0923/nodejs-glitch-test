@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-glitch-test",
+  "version": "1.0.0",
+  "description": "this is a test of glitch",
+  "main": "hello-server.js",
+  "scripts": {
+    "start": "node hello-server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forest0923/nodejs-glitch-test.git"
+  },
+  "author": "forest0923",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forest0923/nodejs-glitch-test/issues"
+  },
+  "homepage": "https://github.com/Forest0923/nodejs-glitch-test#readme"
+}
