@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Forest0923/nodejs-glitch-test/issues"
   },
-  "homepage": "https://github.com/Forest0923/nodejs-glitch-test#readme"
+  "homepage": "https://github.com/Forest0923/nodejs-glitch-test#readme",
+  "devDependencies": {}
 }
