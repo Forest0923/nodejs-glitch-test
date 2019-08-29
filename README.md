@@ -9,3 +9,5 @@ Node.jsで書いたアプリをGlitchで公開する．
 3. ソースコードを書いたらリポジトリにpush
 4. Glitchの画面(ログイン済み)の自分のアイコンから"clone from Github"を選択
 5. `show`で確認できるはず
+## 結果
+[https://forest0923-nodejs-glitch-test.glitch.me/](https://forest0923-nodejs-glitch-test.glitch.me/)
